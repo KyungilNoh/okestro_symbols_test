@@ -1,0 +1,16 @@
+[
+    {
+        "name": "home",
+        "weight": "200",
+        "size": "16",
+        "fill": "fill-on",
+        "fileName": "home-200-16-fill-on.svg"
+    },
+    {
+        "name": "home",
+        "weight": "300",
+        "size": "24",
+        "fill": "fill-off",
+        "fileName": "home-300-24-fill-off.svg"
+    }
+]
